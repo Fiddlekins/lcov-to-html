@@ -1,0 +1,20 @@
+{
+  "name": "lcov-to-html",
+  "version": "1.0.0",
+  "description": "I don't want to install chocolatey and perl and whatever else just to read these damn reports",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fiddlekins/lcov-to-html.git"
+  },
+  "author": "Fiddlekins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fiddlekins/lcov-to-html/issues"
+  },
+  "homepage": "https://github.com/Fiddlekins/lcov-to-html#readme"
+}
